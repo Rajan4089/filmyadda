@@ -26,7 +26,7 @@ const ContactContainer = (props) => {
     },
     {
       name: "GitHub",
-      link: "https://github.com/anukta06",
+      link: "https://github.com/Rajan4089",
       text: "Follow to my github account.",
     },
     {
